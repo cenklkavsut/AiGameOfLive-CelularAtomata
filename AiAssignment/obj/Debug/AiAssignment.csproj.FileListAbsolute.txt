@@ -1,0 +1,5 @@
+/Users/cenkkavsut/Downloads/AiAssignment/AiAssignment/bin/Debug/AiAssignment.exe
+/Users/cenkkavsut/Downloads/AiAssignment/AiAssignment/bin/Debug/AiAssignment.pdb
+/Users/cenkkavsut/Downloads/AiAssignment/AiAssignment/obj/Debug/AiAssignment.exe
+/Users/cenkkavsut/Downloads/AiAssignment/AiAssignment/obj/Debug/AiAssignment.pdb
+/Users/cenkkavsut/Downloads/AiAssignment/AiAssignment/obj/Debug/AiAssignment.csprojAssemblyReference.cache

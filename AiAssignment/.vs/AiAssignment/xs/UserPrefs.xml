@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{616D6B00-90D6-48E1-8062-5276E54B4208}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="25" Column="53" />
+      <File FileName="Grid.cs" />
+      <File FileName="Greenfly.cs" />
+      <File FileName="Ladybird.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Grid.cs" line="27" offsetX="-1" offsetY="-1" expression="chooserLadybird" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.AiAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/cenkkavsut/Downloads/AiAssignment/AiAssignment/v7szkbgx.xf1~" relfile="v7szkbgx.xf1~" line="11" column="1" />
+      <Breakpoint file="/Users/cenkkavsut/Downloads/AiAssignment/AiAssignment/aggxuh5s.jar~" relfile="aggxuh5s.jar~" line="77" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
